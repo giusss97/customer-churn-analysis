@@ -63,14 +63,16 @@ Insights will be added after Exploratory Data Analysis (EDA).
 ---
 
 ## 📁 Project Structure
+```text
 customer-churn-analysis/
 │
-├── data/ # Dataset files
-├── notebooks/ # Jupyter notebooks (EDA, modeling)
-├── src/ # Python scripts
-├── images/ # Visualizations
-├── requirements.txt # Dependencies
+├── data/               # Dataset files
+├── notebooks/          # Jupyter notebooks (EDA, modeling)
+├── src/                # Python scripts
+├── images/             # Visualizations
+├── requirements.txt    # Dependencies
 └── README.md
+```
 
 ---
 
